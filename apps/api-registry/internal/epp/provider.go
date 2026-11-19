@@ -1,5 +1,5 @@
 // Package epp — implementasi Provider interface via native EPP client
-// (teknispandi/epp-pandi-client v2) langsung ke PANDI registry.
+// (pandi-id/epp-pandi-client v2) langsung ke PANDI registry.
 //
 // Struktur file:
 //
